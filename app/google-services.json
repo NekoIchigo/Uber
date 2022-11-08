@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061966575002",
+    "project_id": "pivotal-canto-335613",
+    "storage_bucket": "pivotal-canto-335613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061966575002:android:25be639d5017a75ffdb623",
+        "android_client_info": {
+          "package_name": "com.rja_belen.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061966575002-5ojmfi6rntftl179q9208gdnqddkmpba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-zyZl_nnocDWxQfsWTj5WVd6SBnL0fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061966575002-5ojmfi6rntftl179q9208gdnqddkmpba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
