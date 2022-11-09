@@ -11,10 +11,17 @@
         android:layout_height="wrap_content"
         android:text="@string/driver"
         android:id="@+id/btnDriver"/>
+
     <Button
+        android:id="@+id/btnClient"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/client"
-        android:id="@+id/btnClient"/>
+        android:text="@string/client" />
+
+    <Button
+        android:id="@+id/btnClient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/client" />
 
 </LinearLayout>
