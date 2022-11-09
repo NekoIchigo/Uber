@@ -22,6 +22,7 @@ public class DriverMapActivity extends FragmentActivity implements OnMapReadyCal
 
     private GoogleMap mMap;
     private ActivityDriverMapBinding binding;
+    GoogleApiClient GoogleApiClient;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
